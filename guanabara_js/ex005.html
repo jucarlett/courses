@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS Guanabara</title>
+    <style>
+        body {
+            background-color: rgb(104, 74, 212);
+            color: white;
+            font: normal 18pt Arial;
+        }
+
+        h1 {
+            color: yellow;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Iniciando estudo DOM</h1>
+
+    <p>Aqui vai o resultado</p>
+
+    <p>Aprendendo a usar o <strong>DOM</strong> em JS</p>
+
+    <div id="mensagem">Clique em mim</div>
+
+    <script>
+
+        var corpo = document.body
+        var p1 = document.getElementsByTagName('p')[0]; //pegou paragrafo 0 primeiro paragrafo
+        window.document.write('Está escrito assim: ' + p1.innerText); //escreve oq está na var p1
+        p1.style.color = 'blue'; //muda a cor do texto p1 (a fonte original)
+        corpo.style.background = 'black'; //modificou o fundo original da var corpo (q ela pegou)
+        document.write(p1.innerHTML); //innerhtml puxa a fomratação o innertext nao 
+        var d = document.getElementById("mensagem"); //pegoua div com id "mensagem"
+        d.style.background = 'green'; //moficiou o background da div mensagem (var D)
+        d.innerText = "estou aguardando"; //modifiquei a div D o texto q ela captou
+        
+    </script>
+
+</body>
+
+
+
+</html>

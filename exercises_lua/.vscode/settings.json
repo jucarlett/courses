@@ -1,0 +1,23 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#d4f64f",
+    "activityBar.background": "#d4f64f",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#0babd4",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "commandCenter.border": "#15202b99",
+    "sash.hoverBorder": "#d4f64f",
+    "statusBar.background": "#c8f41e",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#abd50a",
+    "statusBarItem.remoteBackground": "#c8f41e",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#c8f41e",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#c8f41e99",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.color": "#c8f41e",
+  "lua.targetVersion": "5.3"
+}
