@@ -1,10 +1,9 @@
-#include <vector>
 #include <ctime>
 #include <iostream>
-#include "le_arquivo.cpp"
-#include <string>
+#include "le_arquivo.hpp"
 
-std::string palavra_secreta;
+
+extern std::string palavra_secreta;
 
 void sorteia_palavra()
 {

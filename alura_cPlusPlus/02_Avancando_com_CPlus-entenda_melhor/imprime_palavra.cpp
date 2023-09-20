@@ -2,8 +2,8 @@
 #include <map>
 #include <string>
 
-std::map<char, bool> chutou;
-std::string palavra_secreta;
+extern std::map<char, bool> chutou;
+extern std::string palavra_secreta;
 
 void imprime_palavra()
 {
