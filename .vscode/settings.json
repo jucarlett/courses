@@ -19,5 +19,13 @@
     "titleBar.inactiveBackground": "#2d073199",
     "titleBar.inactiveForeground": "#e7e7e799"
   },
-  "peacock.color": "#2d0731"
+  "peacock.color": "#2d0731",
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "iostream": "cpp",
+    "ostream": "cpp",
+    "fstream": "cpp",
+    "xstring": "cpp",
+    "vector": "cpp"
+  }
 }
