@@ -60,6 +60,5 @@ int main()
 
     cin.get();
 }
-// g++ forca.cpp
-// g++ forca.cpp -o forca.out
-//.forca.out
+// g++ *.cpp -o forca.exe
+//.forca.exe
