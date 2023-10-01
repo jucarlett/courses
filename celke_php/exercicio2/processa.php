@@ -1,11 +1,11 @@
 <?php
 echo "<h4>Receber os dados de cada campo individualmente</h4>";
 
-$nome_cliente = filter_input(INPUT_POST, "nome_cliente", FILTER_SANITIZE_STRING);
+$nome_cliente = filter_input(INPUT_POST, "nome_cliente");
 
-$email_cliente = filter_input(INPUT_POST, "email_cliente", FILTER_SANITIZE_STRING);
+$email_cliente = filter_input(INPUT_POST, "email_cliente");
 
-$senha_cliente = filter_input(INPUT_POST, "senha_cliente", FILTER_SANITIZE_STRING);
+$senha_cliente = filter_input(INPUT_POST, "senha_cliente");
 
 echo "Nome do cliente: $nome_cliente <br><br>";
 
