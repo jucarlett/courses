@@ -4,7 +4,13 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+      {
+        "type": "java",
+        "name": "main",
+        "request": "launch",
+        "mainClass": "teste.main",
+        "projectName": "courses_e7beba4a"
+      },
       {
         "name": "Dart & Flutter",
         "request": "launch",
