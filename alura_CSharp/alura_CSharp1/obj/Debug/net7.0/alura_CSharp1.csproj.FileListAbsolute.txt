@@ -1,0 +1,14 @@
+C:\xampp\htdocs\codes\courses\alura_CSharp\alura_CSharp1\bin\Debug\net7.0\alura_CSharp1.exe
+C:\xampp\htdocs\codes\courses\alura_CSharp\alura_CSharp1\bin\Debug\net7.0\alura_CSharp1.deps.json
+C:\xampp\htdocs\codes\courses\alura_CSharp\alura_CSharp1\bin\Debug\net7.0\alura_CSharp1.runtimeconfig.json
+C:\xampp\htdocs\codes\courses\alura_CSharp\alura_CSharp1\bin\Debug\net7.0\alura_CSharp1.dll
+C:\xampp\htdocs\codes\courses\alura_CSharp\alura_CSharp1\bin\Debug\net7.0\alura_CSharp1.pdb
+C:\xampp\htdocs\codes\courses\alura_CSharp\alura_CSharp1\obj\Debug\net7.0\alura_CSharp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\codes\courses\alura_CSharp\alura_CSharp1\obj\Debug\net7.0\alura_CSharp1.AssemblyInfoInputs.cache
+C:\xampp\htdocs\codes\courses\alura_CSharp\alura_CSharp1\obj\Debug\net7.0\alura_CSharp1.AssemblyInfo.cs
+C:\xampp\htdocs\codes\courses\alura_CSharp\alura_CSharp1\obj\Debug\net7.0\alura_CSharp1.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\codes\courses\alura_CSharp\alura_CSharp1\obj\Debug\net7.0\alura_CSharp1.dll
+C:\xampp\htdocs\codes\courses\alura_CSharp\alura_CSharp1\obj\Debug\net7.0\refint\alura_CSharp1.dll
+C:\xampp\htdocs\codes\courses\alura_CSharp\alura_CSharp1\obj\Debug\net7.0\alura_CSharp1.pdb
+C:\xampp\htdocs\codes\courses\alura_CSharp\alura_CSharp1\obj\Debug\net7.0\alura_CSharp1.genruntimeconfig.cache
+C:\xampp\htdocs\codes\courses\alura_CSharp\alura_CSharp1\obj\Debug\net7.0\ref\alura_CSharp1.dll
