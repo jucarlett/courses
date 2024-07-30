@@ -4,15 +4,17 @@
 #include <cstdio>
 #include <iostream>
 #include "Hooks/Minhook/MinHook.h"
+#include "Hooks/Hooks_Core/Hooks_Present.h"
 
 void start()
 {
-	MH_Initialize();
+
 	Beep(750, 300);
 	AllocConsole();
 	FILE* f;
 	freopen_s(&f, "CONOUT$", "w", stdout);
 	std::cout << "Cheat Injected Test!" << std::endl;
+	KieroHooks::Init();
 }
 
 void Dllthread()
