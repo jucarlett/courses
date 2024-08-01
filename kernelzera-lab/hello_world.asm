@@ -1,5 +1,5 @@
 section .data
-    message: db "Hello, World!", 0xa 0xd  ;0xa is newline, 0xd is carriage return- basically a new line
+    message: db "Hello, World!", 0xa 0xd, 0  ;0xa is newline 0xd is carriage return- basically a new line
 
 section .text
     global _start
