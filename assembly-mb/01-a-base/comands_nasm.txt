@@ -1,0 +1,8 @@
+$ nasm assembly.asm -f win64 //nome do assembly
+$ gcc -c main.c -o main.o //nome dos .c
+$ gcc assembly.obj main.o -o test -no-pie //nome do obj gerado pelo nasm e test é o nome do EXE
+$ .\test //executa o test.executa
+
+
+
+TERMINAL
